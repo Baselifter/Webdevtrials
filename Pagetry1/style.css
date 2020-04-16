@@ -1,0 +1,18 @@
+body {
+    background: gray;
+    font-family: Arial, Verdana;
+    color: white;
+}
+
+article {
+    background: blue;
+    color: black;
+}
+
+.test {
+    color: orange;
+}
+
+#feuer {
+    color: green;
+}
