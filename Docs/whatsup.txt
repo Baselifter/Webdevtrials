@@ -1,0 +1,3 @@
+Dies ist nur eine Testdatei und kann bei erreichen von Github wieder
+Gelöscht werden.
+Besten Dank.
